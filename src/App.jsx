@@ -59,9 +59,9 @@ const App = () => {
         </form>
       </div>
 
-
+{/* 
       <Home name="hyyyyy" />
-      <Home />
+      <Home /> */}
     </>
   )
 }
